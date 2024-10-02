@@ -4,6 +4,8 @@
  * Created: 6/10/2024 3:54:55 PM
  * Author : Hp
  */ 
+
+// avr code based on atmeg328p mcu
 #define F_CPU 20000000L
 #include <avr/io.h>
 #include <avr/delay.h>
